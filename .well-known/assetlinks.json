@@ -1,0 +1,12 @@
+[
+     {
+       "relation": ["delegate_permission/common.handle_all_urls"],
+       "target": {
+         "namespace": "android_app",
+         "package_name": "io.github.joferam.twa",
+         "sha256_cert_fingerprints": [
+           "5D:87:83:E6:29:81:1A:B9:35:AA:B6:A6:50:91:7B:07:AC:F1:AA:0B:D9:F0:8E:BB:BF:CC:DC:B2:8C:1F:B9:7A"
+         ]
+       }
+     }
+   ]
