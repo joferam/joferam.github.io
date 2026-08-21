@@ -10,5 +10,17 @@
         "5D:87:83:E6:29:81:1A:B9:35:AA:B6:A6:50:91:7B:07:AC:F1:AA:0B:D9:F0:8E:BB:BF:CC:DC:B2:8C:1F:B9:7A"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.joferam.amiritmo",
+      "sha256_cert_fingerprints": [
+        "A5:98:30:C4:2B:3D:FB:06:0A:6B:4D:AC:CE:C1:AA:AB:AD:34:42:CB:95:FE:66:32:E7:23:B9:B4:DD:4F:62:AA",
+        "9B:81:FB:F6:DF:F7:4B:1A:A6:01:53:FE:4D:DA:57:24:D7:F7:68:ED:9F:67:54:3E:0C:D5:88:EC:06:1C:D7:57",
+        "48:98:60:42:30:7D:A8:40:FC:74:A2:03:44:F1:05:B0:6C:5A:CE:A5:AA:60:3E:24:25:6B:47:0E:AF:CC:28:77"
+      ]
+    }
   }
 ]
